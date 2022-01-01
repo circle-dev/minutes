@@ -1,8 +1,8 @@
-#Simple Newtab
+# Simple Newtab
 
 This is based on Traversy Media dynamic landing page tutorial which is inspired by moments extension
 
-[Youtube Link] (https://www.youtube.com/watch?v=fSTQzlprGLI)
+[Youtube Link](https://www.youtube.com/watch?v=fSTQzlprGLI)
 
 Screenshot:
 
