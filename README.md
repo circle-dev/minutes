@@ -6,4 +6,4 @@ This is based on Traversy Media dynamic landing page tutorial which is inspired 
 
 Screenshot:
 
-![alt text](https://github.com/circle-dev/simple-newtab/images/screenshot1.png?raw=true)
+![alt text](https://github.com/circle-dev/simple-newtab/blob/main/images/screenshot1.png?raw=true)
