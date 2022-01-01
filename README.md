@@ -1,6 +1,6 @@
 # Simple Newtab
 
-This is a brower extension based on Traversy Media dynamic landing page tutorial which is inspired by moments extension
+This is a browser extension based on Traversy Media dynamic landing page tutorial which is inspired by moments extension
 
 [Traversy Media Youtube Link](https://www.youtube.com/watch?v=fSTQzlprGLI)
 
