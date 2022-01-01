@@ -1,6 +1,6 @@
 # Simple Newtab
 
-This is a browser extension based on Traversy Media dynamic landing page tutorial which is inspired by moments extension
+This is a browser extension based on Traversy Media dynamic landing page tutorial which is inspired by moment / Momentum extension
 
 ###### Features
 - The backgroud and greeting will change based on the time of the day
