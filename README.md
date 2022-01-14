@@ -1,7 +1,7 @@
 # Minutes
 
 Minimalist light weight new tab browser extension for your Firefox browser.
- Based on Traversy Media dynamic landing page tutorial which is inspired by moment Momentum extension.
+ Based on Traversy Media dynamic landing page tutorial which is inspired by Moment / Momentum extension.
 
 ###### Features
 - Minimal and light weight
