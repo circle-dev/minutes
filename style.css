@@ -1,13 +1,21 @@
+/* general html reset */
+
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
+
+/* setting custom font */
+
 @font-face {
     font-family: "nuito";
     src: url(/fonts/nunito/Nunito-Light.ttf);
 }
+
+
+/* making body full view hight other flex stuff */
 
 body {
     font-family: 'nuito', sans-serif;
@@ -20,10 +28,37 @@ body {
     background-size: cover;
 }
 
+
+/* adding overlay to background */
+
+.bg-overlay:before {
+    content: '\A';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+
+/* main section font color and some padding */
+
 section {
     color: white;
     padding-bottom: 5%;
 }
+
+
+/* setting z index, without this overlay will be applied to font */
+
+section>h1,
+#time {
+    position: relative;
+}
+
+
+/* some customisation to time font */
 
 #time {
     font-size: 8rem;
