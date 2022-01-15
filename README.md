@@ -15,7 +15,7 @@ Minimalist light weight new tab browser extension for your Firefox browser.
 
 Screenshot:
 
-![alt text](https://github.com/circle-dev/simple-newtab/blob/main/images/screenshot1.png?raw=true)
+![Main Screenshot](/images/screenshot1.png?raw=true)
 
 ##### Remove extension name from urlbar
 
@@ -33,4 +33,4 @@ Screenshot:
 }
 ```
 ##### User Styles Enabled
-![alt text](https://github.com/circle-dev/minutes/blob/main/images/Screenshot-ff-stylesheet?raw=true)
+![FF Url-bar](images/Screenshot-ff-stylesheet?raw=true)
