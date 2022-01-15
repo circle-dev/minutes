@@ -32,8 +32,5 @@ Screenshot:
 	transition: visibility 250ms ease-in-out 500ms;
 }
 ```
-##### Before
-![alt text](https://github.com/circle-dev/minutes/blob/main/images/Screenshot%20with%20no%20stylesheet.png?raw=true)
-
-##### After
-![alt text](https://github.com/circle-dev/minutes/blob/main/images/Screenshot%20with%20stylesheet.png?raw=true)
+##### User Styles Enabled
+![alt text](https://github.com/circle-dev/minutes/blob/main/images/Screenshot-ff-stylesheet?raw=true)
