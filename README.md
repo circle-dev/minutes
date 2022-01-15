@@ -33,4 +33,4 @@ Screenshot:
 }
 ```
 ##### User Styles Enabled
-![FF Url-bar](images/Screenshot-ff-stylesheet?raw=true)
+![FF URL BAR](/images/Screenshot-ff-stylesheet?raw=true)
