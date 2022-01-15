@@ -3,7 +3,7 @@
 Minimalist light weight new tab browser extension for your Firefox browser.
  Based on Traversy Media dynamic landing page tutorial which is inspired by Moment / Momentum extension.
 
-###### Features
+##### Features
 - Minimal and light weight
 - The backgroud and greeting will change based on the time of the day
 - Name and Focus message can be changed
@@ -17,7 +17,7 @@ Screenshot:
 
 ![alt text](https://github.com/circle-dev/simple-newtab/blob/main/images/screenshot1.png?raw=true)
 
-###### Remove extension name from urlbar
+##### Remove extension name from urlbar
 
 1. Enable `toolkit.legacyUserProfileCustomizations.stylesheets` using `about:config` 
 2. Create `userChrome.css` in your profile folder and add the following lines.
@@ -32,3 +32,8 @@ Screenshot:
 	transition: visibility 250ms ease-in-out 500ms;
 }
 ```
+##### Before
+![alt text](https://github.com/circle-dev/minutes/blob/main/images/Screenshot%20with%20no%20stylesheet.png?raw=true)
+
+##### After
+![alt text](https://github.com/circle-dev/minutes/blob/main/images/Screenshot%20with%20stylesheet.png?raw=true)
