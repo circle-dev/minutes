@@ -16,3 +16,19 @@ Minimalist light weight new tab browser extension for your Firefox browser.
 Screenshot:
 
 ![alt text](https://github.com/circle-dev/simple-newtab/blob/main/images/screenshot1.png?raw=true)
+
+###### Remove extension name from urlbar
+
+1. Enable `toolkit.legacyUserProfileCustomizations.stylesheets` using `about:config` 
+2. Create `userChrome.css` in your profile folder and add the following lines.
+
+```css
+#identity-box.extensionPage #identity-icon-label {
+	visibility: collapse !important;
+	transition: visibility 250ms ease-in-out;
+}
+	#identity-box.extensionPage:hover #identity-icon-label {
+	visibility: visible !important;
+	transition: visibility 250ms ease-in-out 500ms;
+}
+```
